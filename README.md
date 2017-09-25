@@ -1,0 +1,1 @@
+# test-mailru-pagefactory
