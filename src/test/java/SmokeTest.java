@@ -12,8 +12,8 @@ import org.openqa.selenium.By;
 public class SmokeTest {
 	private WebDriver driver;
 	private MainPage mainPage;
-	MessagesPage messagesPage;
-	ComposePage composePage;
+	private MessagesPage messagesPage;
+	private ComposePage composePage;
 
 	@BeforeClass
 	public void initBrowes() {
